@@ -1,0 +1,8 @@
+1. Shopper, employee
+2. Minor, adult
+3. Verb
+4. Noun
+5. The employee must interact with the pos system as well as the employee
+6. They are subclasses of the employee class
+7. You only need to verify your id for certain cases but not all.
+8. While scanning items the employee and the customer will check the cart for items
